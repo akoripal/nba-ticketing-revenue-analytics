@@ -107,5 +107,4 @@ A simple regression model estimates **PREDICTED_REVENUE** using demand drivers:
 
 ## Author
 **Anurag Koripalli**  
-GitHub: [your profile link]  
-Portfolio: [your website link]
+Portfolio: https://akoripal.github.io/
