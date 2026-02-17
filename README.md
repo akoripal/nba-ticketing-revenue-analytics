@@ -1,35 +1,3 @@
-# NBA Ticketing & Revenue Analytics Platform (Tableau + Python)
-
-**Tech:** Python (Colab), Dimensional Modeling, Tableau Public  
-**Focus:** Ticket revenue, utilization KPIs, demand elasticity, and forecast validation
-
-## Overview
-This project builds a warehouse-style analytics model and an executive Tableau dashboard to analyze **ticket demand drivers** and **revenue performance** across an NBA season.
-
-The pipeline:
-1) pulls real NBA game logs (season + team)  
-2) engineers demand drivers (win%, streaks, opponent effects, promotions)  
-3) generates realistic ticketing metrics (tickets sold, utilization, pricing)  
-4) produces a dimensional model (fact + dimensions)  
-5) delivers a Tableau dashboard for **forecast validation** and **diagnostics**
-
-## Dashboard
-**Tableau Public:** [Paste your Tableau Public link here]  
-**Key Views:**
-- Revenue (Actual vs Predicted)
-- Demand Elasticity (Win% vs Utilization)
-- Revenue Variance by Opponent
-- Utilization Pattern (Day-of-week × Month)
-- Executive KPI row
-
-## Business Questions Answered
-- How closely does expected revenue match actual revenue across the season?
-- How strongly does team performance correlate with utilization (demand elasticity)?
-- Which opponents consistently over/under-perform expectations (variance diagnostics)?
-- What scheduling patterns (weekday/month) influence utilization?
-
-## Data Model (Dimensional)
-This project uses a warehouse-style schema to prevent metric duplication and to keep fact tables clean.
 
 # NBA Ticketing & Revenue Analytics Platform (Tableau + Python)
 
