@@ -15,7 +15,6 @@ The pipeline:
 5) delivers a Tableau dashboard for **forecast validation** and **diagnostics**
 
 ## Dashboard
-**Tableau Public:** [Paste your Tableau Public link here]  
 **Key Views:**
 - Revenue (Actual vs Predicted)
 - Demand Elasticity (Win% vs Utilization)
